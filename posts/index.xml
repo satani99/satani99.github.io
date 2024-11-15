@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Nikhil&#39;s blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Aug 2024 13:14:08 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 19:26:18 +0530</lastBuildDate>
     <atom:link href="https://satani99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tinyformers</title>
+      <link>https://satani99.github.io/posts/tinyformers/</link>
+      <pubDate>Fri, 15 Nov 2024 19:26:18 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/tinyformers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Llm</title>
       <link>https://satani99.github.io/posts/llm/</link>
