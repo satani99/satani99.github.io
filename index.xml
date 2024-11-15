@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nikhil&#39;s blog</title>
+    <link>https://satani99.github.io/</link>
+    <description>Recent content on Nikhil&#39;s blog</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Aug 2024 13:14:08 +0530</lastBuildDate>
+    <atom:link href="https://satani99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Llm</title>
+      <link>https://satani99.github.io/posts/llm/</link>
+      <pubDate>Sat, 24 Aug 2024 13:14:08 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion101</title>
+      <link>https://satani99.github.io/posts/diffusion/</link>
+      <pubDate>Sat, 24 Aug 2024 12:38:50 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/diffusion/</guid>
+      <description>&lt;p&gt;Diffusion sampling&lt;br&gt;
+Diffusion distillation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diffusion</title>
+      <link>https://satani99.github.io/posts/mypost/</link>
+      <pubDate>Sat, 24 Aug 2024 12:27:47 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/mypost/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
