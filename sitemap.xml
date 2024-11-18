@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://satani99.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-15T19:26:18+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-15T19:26:18+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/posts/tinyformers/</loc>
+    <loc>http://localhost:1313/posts/tinyformers/</loc>
     <lastmod>2024-11-15T19:26:18+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/posts/llm/</loc>
+    <loc>http://localhost:1313/posts/llm/</loc>
     <lastmod>2024-08-24T13:14:08+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/posts/diffusion/</loc>
+    <loc>http://localhost:1313/posts/diffusion/</loc>
     <lastmod>2024-08-24T12:38:50+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/posts/mypost/</loc>
+    <loc>http://localhost:1313/posts/mypost/</loc>
     <lastmod>2024-08-24T12:27:47+05:30</lastmod>
   </url><url>
-    <loc>https://satani99.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://satani99.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://satani99.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://satani99.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

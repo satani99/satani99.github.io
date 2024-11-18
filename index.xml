@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nikhil&#39;s blog</title>
-    <link>https://satani99.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nikhil&#39;s blog</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 19:26:18 +0530</lastBuildDate>
-    <atom:link href="https://satani99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tinyformers</title>
-      <link>https://satani99.github.io/posts/tinyformers/</link>
+      <link>http://localhost:1313/posts/tinyformers/</link>
       <pubDate>Fri, 15 Nov 2024 19:26:18 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/tinyformers/</guid>
+      <guid>http://localhost:1313/posts/tinyformers/</guid>
       <description></description>
     </item>
     <item>
       <title>Llm</title>
-      <link>https://satani99.github.io/posts/llm/</link>
+      <link>http://localhost:1313/posts/llm/</link>
       <pubDate>Sat, 24 Aug 2024 13:14:08 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/llm/</guid>
+      <guid>http://localhost:1313/posts/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Diffusion101</title>
-      <link>https://satani99.github.io/posts/diffusion/</link>
+      <link>http://localhost:1313/posts/diffusion/</link>
       <pubDate>Sat, 24 Aug 2024 12:38:50 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/diffusion/</guid>
+      <guid>http://localhost:1313/posts/diffusion/</guid>
       <description>&lt;p&gt;Diffusion sampling&lt;br&gt;
 Diffusion distillation&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diffusion</title>
-      <link>https://satani99.github.io/posts/mypost/</link>
+      <link>http://localhost:1313/posts/mypost/</link>
       <pubDate>Sat, 24 Aug 2024 12:27:47 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/mypost/</guid>
+      <guid>http://localhost:1313/posts/mypost/</guid>
       <description>&lt;p&gt;Diffusion models are a class of generative models that have gained significant attention in the field of machine learning and artificial intelligence. These models are designed to generate new data samples that are similar to a given dataset. The core idea behind diffusion models is to iteratively refine random noise into meaningful data through a series of transformations.&lt;/p&gt;
 &lt;h3 id=&#34;how-diffusion-models-work&#34;&gt;How Diffusion Models Work&lt;/h3&gt;
 &lt;p&gt;The process begins with a random noise vector, which is gradually transformed into a data sample through a series of steps. Each step involves a small, incremental change that moves the noise closer to the desired data distribution. This is achieved by modeling the reverse process of a diffusion process, where data is gradually corrupted by noise.&lt;/p&gt;</description>
