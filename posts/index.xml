@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nikhil&#39;s blog</title>
     <link>https://satani99.github.io/posts/</link>
     <description>Recent content in Posts on Nikhil&#39;s blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 19:26:18 +0530</lastBuildDate>
     <atom:link href="https://satani99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -27,14 +27,17 @@
       <link>https://satani99.github.io/posts/diffusion/</link>
       <pubDate>Sat, 24 Aug 2024 12:38:50 +0530</pubDate>
       <guid>https://satani99.github.io/posts/diffusion/</guid>
-      <description>&lt;p&gt;Diffusion sampling&lt;br&gt;&#xA;Diffusion distillation&lt;/p&gt;</description>
+      <description>&lt;p&gt;Diffusion sampling&lt;br&gt;
+Diffusion distillation&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diffusion</title>
       <link>https://satani99.github.io/posts/mypost/</link>
       <pubDate>Sat, 24 Aug 2024 12:27:47 +0530</pubDate>
       <guid>https://satani99.github.io/posts/mypost/</guid>
-      <description>&lt;p&gt;Diffusion models are a class of generative models that have gained significant attention in the field of machine learning and artificial intelligence. These models are designed to generate new data samples that are similar to a given dataset. The core idea behind diffusion models is to iteratively refine random noise into meaningful data through a series of transformations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-diffusion-models-work&#34;&gt;How Diffusion Models Work&lt;/h3&gt;&#xA;&lt;p&gt;The process begins with a random noise vector, which is gradually transformed into a data sample through a series of steps. Each step involves a small, incremental change that moves the noise closer to the desired data distribution. This is achieved by modeling the reverse process of a diffusion process, where data is gradually corrupted by noise.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Diffusion models are a class of generative models that have gained significant attention in the field of machine learning and artificial intelligence. These models are designed to generate new data samples that are similar to a given dataset. The core idea behind diffusion models is to iteratively refine random noise into meaningful data through a series of transformations.&lt;/p&gt;
+&lt;h3 id=&#34;how-diffusion-models-work&#34;&gt;How Diffusion Models Work&lt;/h3&gt;
+&lt;p&gt;The process begins with a random noise vector, which is gradually transformed into a data sample through a series of steps. Each step involves a small, incremental change that moves the noise closer to the desired data distribution. This is achieved by modeling the reverse process of a diffusion process, where data is gradually corrupted by noise.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
