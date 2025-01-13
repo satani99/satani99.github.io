@@ -25,5 +25,18 @@ Diffusion distillation&lt;/p&gt;</description>
 &lt;h3 id=&#34;how-diffusion-models-work&#34;&gt;How Diffusion Models Work&lt;/h3&gt;
 &lt;p&gt;The process begins with a random noise vector, which is gradually transformed into a data sample through a series of steps. Each step involves a small, incremental change that moves the noise closer to the desired data distribution. This is achieved by modeling the reverse process of a diffusion process, where data is gradually corrupted by noise.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/prompts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prompts/</guid>
+      <description>&lt;h1 id=&#34;1-code-generation&#34;&gt;1. Code Generation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Generate python code for a program that simulates a basic banking system. The program should allow users to create new accounts, deposit and withdraw funds, and check their account balance. Ensure the code includes error handling for invalid inputs (e.g., negative deposit amounts) and uses appropriate data structures to store account information. The code should be well-documented with comments explaining the functionality of each part.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implement a graph traversal algorithm in Java that identifies the shortest path between two nodes in a weighted, directed acyclic graph. The graph can be represented using an adjacency list. The algorithm should have a time complexity of O(V+E), where V is the number of vertices and E is the number of edges. Include a main method that demonstrates the usage of the algorithm with a sample graph and two nodes.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
