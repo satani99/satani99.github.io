@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://satani99.github.io/posts/inference-time-scaling-for-diffusion-models/</loc>
+    <lastmod>2025-01-20T18:59:37+05:30</lastmod>
+  </url><url>
     <loc>https://satani99.github.io/</loc>
-    <lastmod>2025-01-06T00:39:07+05:30</lastmod>
+    <lastmod>2025-01-20T18:59:37+05:30</lastmod>
   </url><url>
     <loc>https://satani99.github.io/posts/</loc>
-    <lastmod>2025-01-06T00:39:07+05:30</lastmod>
+    <lastmod>2025-01-20T18:59:37+05:30</lastmod>
   </url><url>
     <loc>https://satani99.github.io/posts/llm/</loc>
     <lastmod>2024-08-24T13:14:08+05:30</lastmod>
