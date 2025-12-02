@@ -4,40 +4,38 @@
     <title>Nikhil&#39;s blog</title>
     <link>https://satani99.github.io/</link>
     <description>Recent content on Nikhil&#39;s blog</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo -- 0.123.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2025 18:59:37 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 14:08:05 +0530</lastBuildDate>
     <atom:link href="https://satani99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inference-Time scaling for Diffusion Models</title>
-      <link>https://satani99.github.io/posts/inference-time-scaling-for-diffusion-models/</link>
-      <pubDate>Mon, 20 Jan 2025 18:59:37 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/inference-time-scaling-for-diffusion-models/</guid>
-      <description></description>
+      <title>Diffusion Model Triton Optimization</title>
+      <link>https://satani99.github.io/posts/triton-in-diffusion-model/</link>
+      <pubDate>Tue, 02 Dec 2025 14:08:05 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/triton-in-diffusion-model/</guid>
+      <description>Accelerated Generative Dynamics: A Comparative Analysis of PyTorch and Custom Triton Kernels for Fused GroupNorm-SiLU Inference in Diffusion Models</description>
     </item>
     <item>
-      <title>Llm</title>
-      <link>https://satani99.github.io/posts/llm/</link>
-      <pubDate>Sat, 24 Aug 2024 13:14:08 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/llm/</guid>
-      <description></description>
+      <title>Diffusion Language Model</title>
+      <link>https://satani99.github.io/posts/diffusion-language-model/</link>
+      <pubDate>Mon, 20 Jan 2025 18:59:37 +0530</pubDate>
+      <guid>https://satani99.github.io/posts/diffusion-language-model/</guid>
+      <description>How Diffusion Language Models Work: Theory, Implementation, and Code</description>
     </item>
     <item>
       <title>Diffusion101</title>
       <link>https://satani99.github.io/posts/diffusion/</link>
       <pubDate>Sat, 24 Aug 2024 12:38:50 +0530</pubDate>
       <guid>https://satani99.github.io/posts/diffusion/</guid>
-      <description>&lt;p&gt;Diffusion sampling&lt;br&gt;
-Diffusion distillation&lt;/p&gt;</description>
+      <description>Diffusion sampling
+Diffusion distillation</description>
     </item>
     <item>
       <title>Diffusion</title>
       <link>https://satani99.github.io/posts/mypost/</link>
       <pubDate>Sat, 24 Aug 2024 12:27:47 +0530</pubDate>
       <guid>https://satani99.github.io/posts/mypost/</guid>
-      <description>&lt;p&gt;Diffusion models are a class of generative models that have gained significant attention in the field of machine learning and artificial intelligence. These models are designed to generate new data samples that are similar to a given dataset. The core idea behind diffusion models is to iteratively refine random noise into meaningful data through a series of transformations.&lt;/p&gt;
-&lt;h3 id=&#34;how-diffusion-models-work&#34;&gt;How Diffusion Models Work&lt;/h3&gt;
-&lt;p&gt;The process begins with a random noise vector, which is gradually transformed into a data sample through a series of steps. Each step involves a small, incremental change that moves the noise closer to the desired data distribution. This is achieved by modeling the reverse process of a diffusion process, where data is gradually corrupted by noise.&lt;/p&gt;</description>
+      <description>print(&amp;#34;hello world&amp;#34;) </description>
     </item>
   </channel>
 </rss>
