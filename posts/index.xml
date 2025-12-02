@@ -22,20 +22,5 @@
       <guid>https://satani99.github.io/posts/diffusion-language-model/</guid>
       <description>How Diffusion Language Models Work: Theory, Implementation, and Code</description>
     </item>
-    <item>
-      <title>Diffusion101</title>
-      <link>https://satani99.github.io/posts/diffusion/</link>
-      <pubDate>Sat, 24 Aug 2024 12:38:50 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/diffusion/</guid>
-      <description>Diffusion sampling
-Diffusion distillation</description>
-    </item>
-    <item>
-      <title>Diffusion</title>
-      <link>https://satani99.github.io/posts/mypost/</link>
-      <pubDate>Sat, 24 Aug 2024 12:27:47 +0530</pubDate>
-      <guid>https://satani99.github.io/posts/mypost/</guid>
-      <description>print(&amp;#34;hello world&amp;#34;) </description>
-    </item>
   </channel>
 </rss>
