@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nikhil&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://satani99.github.io/</link>
     <description>Recent content on Nikhil&#39;s blog</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jan 2026 10:50:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://satani99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decoupled DMD for Diffusion Language Models</title>
-      <link>http://localhost:1313/posts/decoupled-dmd-for-diffusion-language-models/</link>
+      <link>https://satani99.github.io/posts/decoupled-dmd-for-diffusion-language-models/</link>
       <pubDate>Tue, 20 Jan 2026 10:50:21 +0530</pubDate>
-      <guid>http://localhost:1313/posts/decoupled-dmd-for-diffusion-language-models/</guid>
+      <guid>https://satani99.github.io/posts/decoupled-dmd-for-diffusion-language-models/</guid>
       <description>Decoupled DMD for Diffusion Language Models: The Spear &amp;amp; The Shield</description>
     </item>
     <item>
       <title>Diffusion Model Triton Optimization</title>
-      <link>http://localhost:1313/posts/triton-in-diffusion-model/</link>
+      <link>https://satani99.github.io/posts/triton-in-diffusion-model/</link>
       <pubDate>Tue, 02 Dec 2025 14:08:05 +0530</pubDate>
-      <guid>http://localhost:1313/posts/triton-in-diffusion-model/</guid>
+      <guid>https://satani99.github.io/posts/triton-in-diffusion-model/</guid>
       <description>Accelerated Generative Dynamics: A Comparative Analysis of PyTorch and Custom Triton Kernels for Fused GroupNorm-SiLU Inference in Diffusion Models</description>
     </item>
     <item>
       <title>Diffusion Language Model</title>
-      <link>http://localhost:1313/posts/diffusion-language-model/</link>
+      <link>https://satani99.github.io/posts/diffusion-language-model/</link>
       <pubDate>Thu, 20 Nov 2025 18:59:37 +0530</pubDate>
-      <guid>http://localhost:1313/posts/diffusion-language-model/</guid>
+      <guid>https://satani99.github.io/posts/diffusion-language-model/</guid>
       <description>How Diffusion Language Models Work: Theory, Implementation, and Code</description>
     </item>
   </channel>
